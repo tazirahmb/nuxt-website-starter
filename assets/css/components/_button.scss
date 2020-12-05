@@ -1,0 +1,40 @@
+button {
+    min-width: 100px;
+    height: 32px;
+    padding: 0 16px;
+    color: white;
+    background-color: $primary;
+    border: none;
+    border-radius: 3px;
+    margin: 16px;
+
+    &.large {
+        height: 48px;
+    }
+
+    &.small {
+        height: 24px;
+    }
+
+    &.ghost {
+        border: 1px solid $primary;
+        background-color: rgba($backgroundLight, .5);
+        color: $primary;
+
+        &:hover {
+            transition: .2s;
+            background-color: $primary;
+            color: $backgroundLight;
+        }
+    }
+
+    &.flat {
+        background-color: $backgroundLight;
+        color: $primary;
+        font-weight: bold;
+    }
+
+    &.block {
+        width: 100%;
+    }
+}

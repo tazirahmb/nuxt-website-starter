@@ -1,0 +1,23 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background: white;
+}
+
+::selection {
+	background-color: $accentLighter;
+}
+
+::-moz-selection {
+	background-color: $accentLighter;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+	margin: 24px auto;
+	display: block;
+}

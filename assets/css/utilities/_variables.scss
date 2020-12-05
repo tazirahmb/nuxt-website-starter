@@ -1,0 +1,19 @@
+// Colors
+// == primary
+$primary: rgb(79, 79, 212);
+$primaryDark: rgb(55, 55, 141);
+$primaryLight: rgb(144, 217, 241);
+
+$accentColor: rgb(217, 255, 217);
+
+// bg theme color
+$primaryLighter: lightgray;
+$accentLighter: rgb(207, 250, 207);
+
+$fontColor: black;
+$backgroundLight: #fff;
+
+// Font --- integrated with Google Font. To use other font, change nuxt.config.js
+$displayFont: 'Playfair Display', serif;
+$bodyFont: 'Montserrat', sans-serif;
+$quoteFont: 'Zilla Slab', cursive;

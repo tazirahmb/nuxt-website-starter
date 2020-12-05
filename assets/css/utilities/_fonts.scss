@@ -1,0 +1,87 @@
+body {
+	font-family: $bodyFont;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	color: $fontColor;
+	font-size: 16px;
+
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
+		margin-bottom: 32px;
+	}
+
+	h1 {
+		font-size: 52px;
+		font-family: $displayFont;
+		color: $primary;
+		font-weight: bold;
+		letter-spacing: 1px;
+		line-height: 1.25;
+	}
+
+	h2 {
+		font-size: 40px;
+	}
+
+	h3 {
+		font-size: 36px;
+		font-family: $displayFont;
+		font-weight: 800;
+	}
+
+	h4 {
+		font-size: 24px;
+		font-weight: bold;
+	}
+
+	h5 {
+		font-size: 16px;
+		// font-weight: 300;
+	}
+
+	p {
+		line-height: 1.75;
+		margin-bottom: 24px;
+		font-size: 16px;
+	}
+
+	a {
+		color: $primary;
+
+		&:hover {
+			border-bottom: 4px solid $accentColor;
+			transition: 0.25s;
+			text-decoration: none;
+		}
+	}
+
+	blockquote {
+		padding: 16px;
+		border-left: 2px solid $fontColor;
+		margin: 16px 0;
+
+		p {
+			font-family: $quoteFont;
+			font-size: 24px;
+			line-height: normal;
+			margin: 0;
+		}
+	}
+
+	ol,
+	ul,
+	dl {
+		margin-bottom: 24px;
+
+		li,
+		dt,
+		dd {
+			margin-left: 32px;
+			margin-bottom: 8px;
+		}
+	}
+}

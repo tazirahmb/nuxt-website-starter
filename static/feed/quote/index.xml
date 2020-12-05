@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Z R O K U</title>
+        <link>https://zroku.my.id</link>
+        <description>Catatan Pencari(an) Makna</description>
+        <lastBuildDate>Sun, 22 Nov 2020 13:44:14 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>https://github.com/nuxt-community/feed-module</generator>
+        <item>
+            <title><![CDATA[Jika kau tidak salah, maka kenapa kau menyiksa dirimu untuk kesakitan batin orang lain karena kesalahan yang tidak kau lakukan?]]></title>
+            <link>https://zroku.my.id</link>
+            <guid>https://zroku.my.id</guid>
+            <pubDate>Sun, 22 Nov 2020 07:12:00 GMT</pubDate>
+            <description><![CDATA[Zroku]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Terkadang, Penyesalan datang dari ketidakmampuan untuk bersyukur dengan apa-apa yang dimiliki.]]></title>
+            <link>https://zroku.my.id</link>
+            <guid>https://zroku.my.id</guid>
+            <pubDate>Wed, 07 Oct 2020 22:56:03 GMT</pubDate>
+            <description><![CDATA[Zroku]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Terlalu banyak memikirkan masa depan dapat membuat lupa untuk menikmati masa sekarang]]></title>
+            <link>https://zroku.my.id</link>
+            <guid>https://zroku.my.id</guid>
+            <pubDate>Wed, 07 Oct 2020 22:54:58 GMT</pubDate>
+            <description><![CDATA[Zroku]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Kebaikan itu ga bernilai, tapi mengharukan]]></title>
+            <link>https://zroku.my.id</link>
+            <guid>https://zroku.my.id</guid>
+            <pubDate>Sun, 26 Apr 2020 03:57:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dengan membatasi pujian, para editor memberikan penekanan atas masukan yang spesifik, jujur, dan konstruktif.]]></title>
+            <link>https://zroku.my.id</link>
+            <guid>https://zroku.my.id</guid>
+            <pubDate>Thu, 26 Mar 2020 01:20:36 GMT</pubDate>
+            <description><![CDATA[Timothy D. Walker]]></description>
+        </item>
+    </channel>
+</rss>
