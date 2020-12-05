@@ -30,3 +30,7 @@ Package used in this repository:
 - @nuxtjs/feed
 - gulp
 - moment
+
+To Add new post: Add new markdown in content/posts folder
+
+To configure route name or blog name: change value in configs folder.
