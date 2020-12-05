@@ -1,4 +1,4 @@
-# web-zroku-nuxt
+# nuxt-website-starter
 
 > My premium Nuxt.js project
 
@@ -8,8 +8,8 @@
 # install dependencies
 $ yarn install
 
-# serve with hot reload at localhost:3000
-$ yarn run dev
+# serve with hot reload at localhost:3333
+$ yarn serve
 
 # build for production and launch server
 $ yarn run build
