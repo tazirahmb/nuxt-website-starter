@@ -20,3 +20,13 @@ $ yarn run generate
 ```
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+
+Package used in this repository:
+- BootstrapVue
+- @nuxtjs/Content API
+- FontAwesome
+- voca
+- nuxt-animate.css
+- @nuxtjs/feed
+- gulp
+- moment
